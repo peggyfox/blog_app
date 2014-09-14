@@ -1,0 +1,1 @@
+Blog::Application.config.secret_key_base = "f68a5140893e29c731158676b5fbf034867cc69a753a702fbadcc3d223edbece439d572ba0ad7dffcafab0545f00611a18b6d4bd2a16f4f01f24a407d219582d"
